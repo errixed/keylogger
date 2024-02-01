@@ -3,6 +3,10 @@
   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](https://skillicons.dev)
   # Keylogger
   A sample to show how keylogger can capture your keyboard, made by Python3.
+  ![GitHub followers](https://img.shields.io/github/followers/errixed)
+  ![GitHub forks](https://img.shields.io/github/forks/errixed/keylogger)
+  ![GitHub watchers](https://img.shields.io/github/watchers/errixed/keylogger)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/errixed/keylogger)
   
 </div>
 
