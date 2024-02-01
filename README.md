@@ -6,9 +6,9 @@
   <br/>
   <br/>
   ![GitHub followers](https://img.shields.io/github/followers/errixed)
-  ![GitHub forks](https://img.shields.io/github/forks/errixed/keylogger)
-  ![GitHub watchers](https://img.shields.io/github/watchers/errixed/keylogger)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/errixed/keylogger)
+  ![GitHub forks](https://img.shields.io/github/forks/errixed/email-keylogger)
+  ![GitHub watchers](https://img.shields.io/github/watchers/errixed/email-keylogger)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/errixed/email-keylogger)
   
 </div>
 
